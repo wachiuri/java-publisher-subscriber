@@ -1,1 +1,1 @@
-# pangaea
+# Java Publisher Subscriber
